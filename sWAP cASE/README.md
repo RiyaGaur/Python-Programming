@@ -2,7 +2,7 @@ You are given a string and your task is to swap cases. In other words, convert a
 
 <strong> For Example: </strong>
 
-Www.HackerRank.com → wWW.hACKERrANK.COM
+Www.HackerRank.com → wWW.hACKERrANK.COM <br>
 Pythonist 2 → pYTHONIST 2
 
 <h2> Input Format </h2>
