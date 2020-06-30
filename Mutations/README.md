@@ -15,8 +15,11 @@ What if you would like to assign a value?
 
 >>> string[5] = 'k' 
 Traceback (most recent call last):
+
   File "<stdin>", line 1, in <module>
+  
 TypeError: 'str' object does not support item assignment
+  
 How would you approach this?
 <ul>
   <li>One solution is to convert the string to a list and then change the value.</li>
@@ -41,11 +44,11 @@ abrackdabra
 Read a given string, change the character at a given index and then print the modified string.
 
 <h2> Input Format </h2>
-The first line contains a string, .
-The next line contains an integer , denoting the index location and a character  separated by a space.
+The first line contains a string, S.
+The next line contains an integer i, denoting the index location and a character c separated by a space.
 
 <h2> Output Format </h2>
-Using any of the methods explained above, replace the character at index  with character .
+Using any of the methods explained above, replace the character at index i with character c.
 
 <h2> Sample Input </h2>
 
