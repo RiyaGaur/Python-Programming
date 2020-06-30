@@ -2,10 +2,10 @@ Kevin and Stuart want to play the <strong>'The Minion Game'</strong>.
 
 <h2> Game Rules </h2>
 
-Both players are given the same string, S.
-Both players have to make substrings using the letters of the string S.
-Stuart has to make words starting with consonants.
-Kevin has to make words starting with vowels.
+Both players are given the same string, S.<br>
+Both players have to make substrings using the letters of the string S.<br>
+Stuart has to make words starting with consonants.<br>
+Kevin has to make words starting with vowels.<br>
 The game ends when both players have made all possible substrings.
 
 <h2> Scoring </h2>
@@ -14,11 +14,11 @@ A player gets +1 point for each occurrence of the substring in the string S.
 
 <h2> For Example: </h2>
 
-String S = BANANA
-Kevin's vowel beginning word = ANA
+String S = BANANA<br>
+Kevin's vowel beginning word = ANA<br>
 Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points.
 
-
+<h2> Task </h2>
 Your task is to determine the winner of the game and their score.
 
 <h2> Input Format </h2>
